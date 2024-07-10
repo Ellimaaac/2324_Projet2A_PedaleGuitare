@@ -51,10 +51,6 @@ When the button is pressed, a signal is sent to the microprocessor. When it rece
 We use several potentiometers for all the settings of our effects, the gain, the shape, the reverb ect... All potentiometers are fitted with capacitors to eliminate unwanted noise and high frequencies.
 
 
-
-
-
-
 They are 2 versions of the pcb :
 | V | Recto | Verso  | Size |
 |---|------|-------|-----|
@@ -63,19 +59,6 @@ They are 2 versions of the pcb :
 | V3.0| <p align="center"><img src="Hardware/img/V3Recto.png" width="300" /> </p>**WIP**  | <p align="center"><img src="Hardware/img/V3Verso.png" width="300"  /> </p>**WIP**| 9.71 x 6.76 cm |
 
 As you can see, the first version wasn't optimised. They is a lot of space between components and the design is not very good. That's why we did a new version witch to x2 smaller.
-
-## 💻 Software Section
-
-In this second part you will find everything that concerns the software part of the project. You'll find all the detailed audio effects programs and how they work.
-
-[Link to Software Section](https://github.com/lucacros/2324_Projet2A_PedaleGuitare/tree/Software-Section)
-
-## 🚀 Contributions
-
-We would like to thank each person who helped us and provided support and information, such as:
-- M. Nicolas PAPAZOGLOU
-- M. Laurent FIACK
-- M. Frédéric GERALDO
 
 ## 📜 Licence
 
